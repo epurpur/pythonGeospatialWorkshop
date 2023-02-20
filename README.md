@@ -21,15 +21,18 @@ I'm a part of a group called [research data services](https://data.library.virgi
     4. Internal Library Projects
     5. Random other things as they come up
     
-## **Upcoming Workshops**
 
-More Information Available here: https://data.library.virginia.edu/training/#py
+## Other Upcoming Workshops
 
-* Geospatial Data & Mapping in Python           |      Tuesday 2/27,  10:00 - 11:30am
-* Version Control with Git/Github                 |    Tuesday 2/27,  1:00 - 2:30pm
-* Python Web Scraping                       |          Tuesday 10/4,  10:00 - 11:30am
-* Python File Input/Output                         |   Tuesday 10/11, 10:00 - 11:30am                                    
-    
+[See all of our workshop offerings here](https://data.library.virginia.edu/training/)
+
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
+| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
+| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
+
+
 ## Background
 
 My background is in Geographic Information Systems (GIS). Python is a general purpose programming language. It can do many things and it is always growing and enabling people to do more. Traditionally, GIS users have specific software such as ESRI's ArcGIS, or the open source alternative QGIS. These software packages have adopted python as their language of choice and now have fully fleged python APIs that you can use it to write scripts and automate tasks within those languages. However, those are specific use cases and a separate topic entirely. Today we are going to use python mapping and geospatial libraries that are adjacent to the stack commonly used around UVA (and academia) which includes Pandas, Matplotlib, NumPy, and so on. These libraries, specifically GeoPandas, are a nice addition to what you might already be using!
