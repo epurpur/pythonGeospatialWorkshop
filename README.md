@@ -1,5 +1,5 @@
 ```
-Last updated 02/19/23
+Last updated 08/24/23
 ```
 
 # Geospatial Data & Mapping in Python
@@ -28,9 +28,14 @@ I'm a part of a group called [research data services](https://data.library.virgi
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
-| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
-| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
+| Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
+| Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
+| Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
+| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
+| Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
+| Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
+| Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
 
 
 ## Background
@@ -45,3 +50,29 @@ The goal of GeoPandas is to make working with geospatial data in python easier. 
 
 ### Folium
 [Folium](http://python-visualization.github.io/folium/) builds on the data wrangling strengths of python and the mapping strengths of [Leaflet.js](https://leafletjs.com/). Manipulate your data in python, then visualize it on a Leaflet map via Folium. Folium makes it easy to visualize data that has been manipulated in python on an interactive leaflet map. It enables the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map. The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox.
+
+
+## **Self Help - You don't need to remember all of this!**
+
+Honestly, you don't need to remember most of it. Here are the resources I use when looking for answers:
+
+ChatGPT
+* ChatGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
+* [How to Effectively Learn to Program w/ ChatGPT](https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+* [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
+
+[Matplotlib Documentation](https://matplotlib.org/3.1.1/index.html)
+
+[Stack Overflow](https://stackoverflow.com/) is a huge user community Q&A type site. Odds are very high that someone has 
+asked your question before, just google something like "how to make scatter plot matlplotlib python". I'm pretty certain a 
+StackOverflow thread will be one of the first few search results
+
+*Stack Overflow Etiquette*
+Don't just ask questions right away. Odds are high that for widely used packages, like matplotlib, a question and answer 
+already exists. It is good practice to use that (and upvote it) if you like the answer. 
+
+If you do ask a question, make sure it is specific and reproducible. People will downvote you and moderators will close the 
+question if it is vague, incoherent, not-reproducible, or not clear in some other way. StackOverflow's purpose is to act as 
+a reference guide, not as a forum to debate open ended questions such as "what is better, matplotlib or ggplot?". Go on 
+Reddit if you want to do that. 
+
