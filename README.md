@@ -10,7 +10,7 @@ Erich Purpur
 
     Research Librarian for Science & Engineering
     epurpur@virginia.edu
-    Brown Science & Engineering Library room I046
+    Brown Science & Engineering Library room I054
 
 
 I'm a part of a group called [research data services](https://data.library.virginia.edu/) and I do these things:
