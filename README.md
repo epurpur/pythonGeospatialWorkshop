@@ -1,5 +1,5 @@
 ```
-Last updated 08/24/23
+Last updated 02/01/24
 ```
 
 # Geospatial Data & Mapping in Python
@@ -22,20 +22,18 @@ I'm a part of a group called [research data services](https://data.library.virgi
     5. Random other things as they come up
     
 
-## Other Upcoming Workshops
+## Upcoming Workshops
 
 [See all of our workshop offerings here](https://data.library.virginia.edu/training/)
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
-| Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
-| Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
-| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
-| Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
-| Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
-| Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
-| Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
+| Intro to Python pt 1                                                |       Tuesday 1/30   |  12:00 - 1:30pm
+| Intro to Python pt 2                                                |       Tuesday 2/6    |  12:00 - 1:30pm
+| Python Data Analysis + Visualization                                |       Tuesday 2/13   |  12:00 - 1:30pm
+| Intro to Version Control w/ Git + Github                            |       Wednesday 2/14 |  10:00 - 11:30pm
+| Python and ChatGPT                                                  |       Tuesday 2/20   |  12:00 - 1:30pm
+| Geospatial Data + Mapping in Python                                 |       Tuesday 3/12   |  12:00 - 1:30pm
 
 
 ## Background
