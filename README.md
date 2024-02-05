@@ -4,6 +4,10 @@ Last updated 02/01/24
 
 # Geospatial Data & Mapping in Python
 
+### Link to recording of this workshop
+- [View on PanOpto](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=291ecd96-3ea0-4a03-8808-b10d013e608e)
+- [View on Youtube](https://www.youtube.com/watch?v=MEe_M4XfmMQ)
+
 ## **About Me**
 
 Erich Purpur
